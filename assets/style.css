@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Wasted';
+    font-style: normal;
+    font-weight: 400;
+    src: url('assets/IsWasted.ttf');
+}
+@font-face {
+    font-family: 'Proggy';
+    font-style: normal;
+    font-weight: 300;
+    src: url('assets/ProggyTiny.ttf');
+}
